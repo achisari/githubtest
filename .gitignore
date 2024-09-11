@@ -10,3 +10,7 @@
 /.vs/gittest/FileContentIndex/37223b7b-0413-47c4-925d-867ba7594516.vsidx
 /.vs/gittest/FileContentIndex
 /.vs/slnx.sqlite
+/ConsoleTest/ConsoleApp1/obj
+*.suo
+/ConsoleTest/.vs/ConsoleTest/FileContentIndex
+/ConsoleTest/.vs/ConsoleTest/v17
